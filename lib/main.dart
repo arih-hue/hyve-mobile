@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
-      home: const LostAndFoundPage(),
+      home: const OnBoardingScreen(),
     );
   }
 }
